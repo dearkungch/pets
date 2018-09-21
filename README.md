@@ -1,2 +1,6 @@
-# pets
-plugin pets for mcpe 1.1 php 7.0.24
+# SugarPets
+Made by SugarPocket
+fix bug by VGS TEAM
+Support
+- minecraft pe 1.1
+- php 7.0
